@@ -1,0 +1,7 @@
+Projects that would make my life easier:
+* JUnit History (Intellij)
+* Test Bench (Intellij)
+* Dashboard - Reviews I need to close
+* Dashboard - Open Forms
+* Dashboard - Defect Backlog
+* 
